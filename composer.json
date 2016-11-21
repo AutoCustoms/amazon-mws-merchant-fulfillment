@@ -1,0 +1,22 @@
+{
+  "name": "autocustoms/amazon-mws-merchant-fulfillment",
+  "description": "Amazon Merchant Fulfillment API PHP Client Library",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Henning Glatter-Gotz",
+      "email": "henning@autocustoms.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "include-path": [
+    "src/"
+  ]
+}
